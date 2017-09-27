@@ -1,0 +1,30 @@
+Problem2.Txt Done By Ecclesiastes Gan 2/20/2017
+UNI:efg2123
+RESULTS OF PROGRAM 2
+____________________________
+i ran this on cunix
+i compiled it with javac Program2.java
+ran it with java Program2 -Xint
+i omitted the first enqueue and dequeue timings because they were significantly greater but the rest reflected 
+as explained below
+
+Enqueue: 1445
+Enqueue: 1170
+Enqueue: 1150
+Enqueue: 1105
+Enqueue: 979
+Dequeue: 646
+Dequeue: 1027
+Dequeue: 751
+Dequeue: 702
+
+null
+Dequeue: 21416 //reflects O(N)
+
+_____________________________
+Explanation: 
+The enqueue function reflects O(1)
+The dequeue function reflects O(1) WHEN there are items in the queue
+HOWEVER, the dequeue function reflects O(N) when there are NULL items in the queue
+Therefore the dequeue function is still O(N)
+THEREFORE THE OVERALL TIME COMPLEXITY OF THE QUEUE IS STILL O(N)
