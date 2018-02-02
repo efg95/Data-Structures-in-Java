@@ -4,7 +4,7 @@ Run: java Problem2 frank.txt
 Problem2.java
 Set up error checking, if there is no file, I end the system.
 
-I then create an AvlTree object named tree i use scanner to scan in the file taken in using the command line argument.
+I then create an AvlTree object named tree i use a scanner to scan in the file taken in using the command line argument.
 i create a lineNumber that's job is to increment everytime i go down the file line by line.
 
 i set up a while loop that while inFile.hasNextLine() will keep going.
