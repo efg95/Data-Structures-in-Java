@@ -1,5 +1,4 @@
 things to note for this problem, i am attaching my own Stack interface and MyStack, from my last program, because MyStack class implements my own Stack interface i created.
-I am sorry if that is irritating, but i like to keep stuff like that in my projects helps me remember how certain DataStructures work w/o googling
 
 Programming Problem 1
 ExpressionTree.java
