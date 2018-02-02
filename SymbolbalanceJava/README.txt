@@ -1,15 +1,4 @@
-_____________________________________________________________________________________________________________________________________________________________________________
-
-Right down to business. to compile please type javac MyQueue.java MyStack.java SymbolBalance.java TwoStackQueue.java Program2.java
-to run SymbolBalance java SymbolBalance Test.java
-please do not compile Test it will not compile, but add it behind SymbolBalance after compilation so symbolbalance will go through Test.java to check for symbolbalance
-
-Test TwoStackQueue by typing java Program2
-
-(you can compile myList.java and twoStacksOneArray as well if you want to test my written problem)
-compile: javac myList.java twoStacksOneArray
-run: java myList.java
-run: java twoStacksOneArray
+____________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________
 
 Programming Problem 1:
