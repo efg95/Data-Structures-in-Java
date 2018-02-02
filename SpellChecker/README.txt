@@ -1,12 +1,4 @@
-SPELLCHECKER
-files to compile for SpellChecker: SpellChecker.java 
-Compile: javac SpellChecker.java
-Run: java SpellChecker words.txt filetospellcheck.txt
 
-PLEASE COMPILE IT IN THIS ORDER, as args[0] <-- is for dictionary
-and args[1] <-- is for the file to spell check
-
-SpellChecker.java
 _____________________________________________
 
 nothing really amazing I instantiate two BufferedReader called DictionaryReader
