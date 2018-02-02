@@ -19,18 +19,6 @@ which works fine.
 Problem2 Class: **Binary Search Recursively**
 Created a rectangle array with 7 rectangles, filled them up randomly again.
 
-**CREATED A SPECIAL RECTANGLE OUTSIDE OF THE ARRAY** for testing purposes
-Sorted the ARRAY
-Checked whether it was sorted(phobia)
 
-2 methods, the first one copied from the code posted on ASSIGNMENTS
-the second method is a helper method, that does binary search recursively, the method works and thought process
-are similar to the code Professor Blaer let us see during lecture. Credits to him i guess?
-
-finally, I print out all the perimeters of the rectangle array, filled with random perimeters of rectangles.
-I then randomize Rectangle B, and search the rectangle array with the binary recursive search for similar perimeters within the array.
-if none is found -1, is returned.
-if perimeter is found it returns the index of the array the perimeter similar to rectangle B is found at.
-if more than one is found it matches the results with the first found in the array.
 
 
